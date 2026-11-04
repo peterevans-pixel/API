@@ -1,0 +1,21 @@
+customer_id,name,email,city
+1,Avery Morgan,customer01@example.com,Fairfield
+2,Jordan Patel,customer02@example.com,Bridgeport
+3,Taylor Chen,customer03@example.com,New Haven
+4,Casey Rivera,customer04@example.com,Stamford
+5,Riley Brooks,customer05@example.com,Norwalk
+6,Morgan Lee,customer06@example.com,Fairfield
+7,Jamie Wilson,customer07@example.com,Bridgeport
+8,Alex Kim,customer08@example.com,New Haven
+9,Cameron Davis,customer09@example.com,Stamford
+10,Quinn Garcia,customer10@example.com,Norwalk
+11,Sam Parker,customer11@example.com,Fairfield
+12,Drew Johnson,customer12@example.com,Bridgeport
+13,Skyler Reed,customer13@example.com,New Haven
+14,Reese Martin,customer14@example.com,Stamford
+15,Rowan Lewis,customer15@example.com,Norwalk
+16,Peyton Clark,customer16@example.com,Fairfield
+17,Finley Hall,customer17@example.com,Bridgeport
+18,Emerson Young,customer18@example.com,New Haven
+19,Dakota Allen,customer19@example.com,Stamford
+20,Harper Scott,customer20@example.com,Norwalk

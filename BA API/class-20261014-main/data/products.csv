@@ -1,0 +1,13 @@
+product_id,product_name,category,price
+1,Notebook,Stationery,4.50
+2,Pen Set,Stationery,6.00
+3,Backpack,Accessories,45.00
+4,Water Bottle,Accessories,18.00
+5,Hoodie,Clothing,39.00
+6,T-Shirt,Clothing,19.00
+7,USB Drive,Technology,12.50
+8,Wireless Mouse,Technology,24.00
+9,Desk Lamp,Home,29.00
+10,Coffee Mug,Home,10.00
+11,Planner,Stationery,15.00
+12,Laptop Stand,Technology,35.00
